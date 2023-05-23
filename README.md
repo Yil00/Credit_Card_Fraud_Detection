@@ -22,7 +22,9 @@ The dataset has been collected and analysed during a research collaboration of W
 
 More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project
 
+<p align="center">
+  <img width="600" height="350" src="img/xenonstack-credit-card-fraud-detection.png">
+</p>
 
- ![img](img/xenonstack-credit-card-fraud-detection.png)
  
  
